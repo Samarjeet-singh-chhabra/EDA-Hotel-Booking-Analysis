@@ -13,9 +13,10 @@ We were provided with a dataset of hotel booking data from 2015 to 2017 with 119
 [Dataset](https://drive.google.com/file/d/1EGYfR6Q0LIN7DWJg9rp0WMwVcW9F9UG4/view?usp=sharing).
 
 # Files in this  repository
-- [Indivisual colab](https://colab.research.google.com/github/Samarjeet-singh-chhabra/EDA-Hotel-Booking-Analysis/blob/main/Hotel_Booking_Analysis_Samarjeet_Singh_Chhabra.ipynb)
+- [Indivisual colab](https://colab.research.google.com/github/Samarjeet-singh-chhabra/EDA-Hotel-Booking-Analysis/blob/main/PERSONAL_NOTEBOOK_CP1_Hotel_Booking_EDA_Samarjeet.ipynb)
 - [Team Colab Notebook](https://colab.research.google.com/github/Samarjeet-singh-chhabra/EDA-Hotel-Booking-Analysis/blob/main/TEAM_NOTEBOOK_CP1_Hotel_Booking_EDA_Samarjeet.ipynb)
-- [Presentation PDF](https://github.com/Samarjeet-singh-chhabra/EDA-Hotel-Booking-Analysis/blob/cb225bb0996ab2e5c82f96a7438a82ea6904ed0c/Capstone%20on%20Hotel%20Booking%20Analysis%20Space%20Needle%20(4).pdf)
+- [Presentation PDF](https://github.com/Samarjeet-singh-chhabra/EDA-Hotel-Booking-Analysis/blob/main/PRESENTATION%20_CP1%20_Hotel%20_Booking%20_EDA%20_Samarjeet.pdf)
+
 
 > V.0.0.1
   
